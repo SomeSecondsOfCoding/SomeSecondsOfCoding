@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @MahfujAhmedChowdhury
+-👋 Hi, I’m @MahfujAhmedChowdhury
+- A Student, a learner, a living being
