@@ -1,2 +1,2 @@
--👋 Hi, I’m @MahfujAhmedChowdhury
-- A Student, a learner, a living being
+-👋 Hi, This is SomeSecondsOfCoding
+- A Gentleman's Coding Documentation
