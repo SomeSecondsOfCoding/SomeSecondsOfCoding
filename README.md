@@ -1,6 +1,7 @@
 # 👋 Hi, I’m SomeSecondsOfCoding  
 
 Welcome to my corner of the internet 🌐
+--
 Think of this as **A Gentleman’s Coding Documentation** ✨  
 
 ---
