@@ -1,4 +1,4 @@
-# 👋 Hi, I’m SomeSecondsOfCoding  
+# 👋 Hi, I’m Mahfuj, Author of SomeSecondsOfCoding  
 
 Welcome to my corner of the internet 🌐
 --
